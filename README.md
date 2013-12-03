@@ -11,3 +11,7 @@ If you buy 2 or more travel card holders then the price drops to
 Our check-out can scan items in any order, and because our
 promotions will change, it needs to be flexible regarding our
 promotional rules.
+
+The checkout test can be run by running:
+
+`rspec spec/checkout_spec.rb`
