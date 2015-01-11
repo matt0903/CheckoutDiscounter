@@ -1,5 +1,5 @@
 #About
-This gem was built with the following in mind:
+This was built with the following in mind:
 
 Our marketing team want to offer promotions as an incentive for
 our customers to purchase these items.
